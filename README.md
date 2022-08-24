@@ -3,6 +3,7 @@ I'm a fullstack Solutions Architect / Senior Software Engineer who loves compute
 
 # 🛠️ My Projects / Portfolio
 * [Rusty Service Discovery](https://github.com/ArthurCruzDev/rusty-service-discovery) - A HTTP API service discovery solution implementation using Rust programming language. (UNDER DEVELOPMENT)
+* [ArthurCruzDev Website](https://github.com/ArthurCruzDev/arthurcruzdev-website) - My personal developer's portifolio website, made with React. (UNDER DEVELOPMENT)
   
 # 🤝 Contributions / Open Source
 
