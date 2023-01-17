@@ -7,6 +7,7 @@ I'm a fullstack Solutions Architect / Senior Software Engineer who loves compute
 * [A RPG Game In Rust](https://github.com/ArthurCruzDev/rpg_game_rust) - A RPG Game Implementation in Rust using ggez engine. **(UNDER DEVELOPMENT)**
   
 # 🤝 Contributions / Open Source
+* [Rusty Time Note](https://github.com/ArthurCruzDev/rusty_time_note_desktop) - A OpenSouce tool for tracking time spent in activities. The tool is going to be built with Tauri (SolidJS + Rust). **(UNDER DEVELOPMENT)**
 
 # 💵 Support Me Options
 * [Buy Me A Coffee](https://www.buymeacoffee.com/devArthurCruz)
