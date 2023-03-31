@@ -8,6 +8,7 @@ I'm a fullstack Solutions Architect / Senior Software Engineer who loves compute
   
 # 🤝 Contributions / Open Source
 * [Rusty Time Note](https://github.com/ArthurCruzDev/rusty_time_note_desktop) - A OpenSouce tool for tracking time spent in activities. The tool is going to be built with Tauri (SolidJS + Rust). **(UNDER DEVELOPMENT)**
+* [Rusty Authenticator](https://github.com/ArthurCruzDev/rusty_authenticator) - An Authentication Server, built with Actix Web, that offers an OAuth2 implementation supporting some features like: JWT, different token storage strategies (redis, sqlite, mysql, postgres), HTTPS/TLS, etc.. out of the box. **(UNDER DEVELOPMENT)**
 
 # 💵 Support Me Options
 * [Buy Me A Coffee](https://www.buymeacoffee.com/devArthurCruz)
