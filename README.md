@@ -3,7 +3,8 @@ I'm a fullstack Solutions Architect / Senior Software Engineer who loves compute
 
 # 🛠️ Personal Projects / Portfolio
 * [ArthurCruzDev Website](https://github.com/ArthurCruzDev/arthurcruzdev-website) - **(UNDER DEVELOPMENT)** - My personal developer's portifolio website, made with React. 
-* [A RPG Game In Rust](https://github.com/ArthurCruzDev/rpg_game_rust) - **(UNDER DEVELOPMENT)** - A 2D RPG Game Implementation in Rust using ggez engine. 
+* [A RPG Game In Rust](https://github.com/ArthurCruzDev/rpg_game_rust) - **(UNDER DEVELOPMENT)** - A 2D RPG Game Implementation in Rust using ggez engine.
+* [Blue Boy Adventure In Rust](https://github.com/ArthurCruzDev/blue_boy_adventure_rust) - **(UNDER DEVELOPMENT)** - A Rust implementation of the game Blue Boy Adventure, created by RyiSnow in his [YouTube channel](https://www.youtube.com/@RyiSnow), using ggez engine.
   
 # 🤝 Contributions and Open Source Software I'm Devleoping
 * [Rusty Time Note](https://github.com/ArthurCruzDev/rusty_time_note_desktop) - **(UNDER DEVELOPMENT)** - A OpenSouce tool for tracking time spent in activities. The tool is being built with Tauri (with a SolidJS + Rust combo). 
